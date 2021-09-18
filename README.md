@@ -10,8 +10,8 @@ We will never:
 * Kill the game performances
 * Access the Internet from the AC
 * Capture your screen content
-* Pack of obfuscate any of the native code.
-* allow for privileged code to run.
+* Pack or obfuscate any of the native code.
+* Allow for privileged code to run.
 
 What we can do:
 * Transmit the path of the modules loaded in the game
