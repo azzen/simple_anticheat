@@ -1,0 +1,2 @@
+This is the Detours library by Microsoft
+https://github.com/microsoft/Detours/releases/tag/v4.0.1
